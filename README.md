@@ -13,7 +13,7 @@ Team performance analytics
 
 Instead of giving raw numbers, the application translates analytical results into meaningful business insights.
 
-👤 # Author
+# Author
 Leo Mashapa
 Data & Reporting Analyst | BI Enthusiast | Founder of Mashapa Analytics
 "Turning data into actionable business intelligence through AI-powered analytics."
