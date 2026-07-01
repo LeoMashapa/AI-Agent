@@ -16,5 +16,6 @@ Instead of giving raw numbers, the application translates analytical results int
 # Author
 Leo Mashapa
 
-Data & Reporting Analyst | BI Enthusiast | Founder of Mashapa Analytics
+Data Analyst | BI Enthusiast | Founder of Mashapa Analytics
+
 "Turning data into actionable business intelligence through AI-powered analytics."
